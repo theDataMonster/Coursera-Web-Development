@@ -1,0 +1,24 @@
+{
+  "name": "coursera-ws",
+  "version": "1.0.0",
+  "description": "Coursera Web Development Course",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theDataMonster/Coursera-Web-Development.git"
+  },
+  "author": "Pratyush Dwivedi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theDataMonster/Coursera-Web-Development/issues"
+  },
+  "homepage": "https://github.com/theDataMonster/Coursera-Web-Development#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
